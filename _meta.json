@@ -1,0 +1,14 @@
+{
+  "name": "api-client-toolkit",
+  "version": "1.0.0",
+  "description": "API client patterns for Python - extracted from 5+ API tools via Ralph Loop",
+  "author": "Ralph Loop / Kyle Baker",
+  "generated": "2026-02-24",
+  "source": "ralph-loop-analysis",
+  "patterns": [
+    "rest-api",
+    "authentication",
+    "retries",
+    "rate-limiting"
+  ]
+}
